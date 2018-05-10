@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: a86160819868c864b8fcd3b7f9c7b6b7
+  productGUID: 00874f899d6fcee4bab4c40d179e09e1
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -662,8 +662,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 566893ba-1d84-44f6-b6db-033139b78584
-  projectName: Hololulu
+  cloudProjectId: 8bc36714-6791-4422-8f4c-cec08c1c5a09
+  projectName: Hololulu (1)
   organizationId: uncovereddb
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
